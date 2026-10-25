@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/lines/howareyou2?pet-id=902102252345838104&amp;contribution-view=false" width="280" height="160" alt="선글라스 병아리 · GitAnimals" />
+    <img src="https://render.gitanimals.org/farms/howareyou2" width="600" alt="이현정의 GitAnimals 농장" />
   </a>
 </p>
 
