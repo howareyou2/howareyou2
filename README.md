@@ -1,12 +1,17 @@
-# 이현정
+<p align="center">
+  <img src="./assets/profile-intro.svg" width="100%" alt="이현정 — 필요한 일에 먼저 움직이는 백엔드 개발자입니다." />
+</p>
 
-**필요한 일에 먼저 움직이는 백엔드 개발자입니다.**
+<p align="center">
+  3인 팀에서 빵집을 찾고 방문을 기록하는 <b>빵별일지</b>를 개발·운영하고 있습니다.<br />
+  사용자의 행동을 제품 개선에 연결하고, 검색·데이터 최신화·운영 장애를 다룹니다.
+</p>
 
-3인 팀에서 빵집을 찾고 방문을 기록하는 **빵별일지**를 개발·운영하고 있습니다.  
-사용자의 행동을 제품 개선에 연결하고, 검색·데이터 최신화·운영 장애를 다룹니다.
-
-<a href="https://app.notion.com/p/2d7f1bb7a95a83a3bafc010066f9ecfc"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-B5683E?style=flat-square&amp;logo=notion&amp;logoColor=white" /></a>
-<a href="mailto:fineimagination@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-736454?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+<p align="center">
+  <a href="https://app.notion.com/p/2d7f1bb7a95a83a3bafc010066f9ecfc"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-4169E1?style=for-the-badge&amp;logo=notion&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:fineimagination@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-34435E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
 
 <br />
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img" aria-label="이현정. 필요한 일에 먼저 움직이는 백엔드 개발자입니다.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1F5FF"/><stop offset="1" stop-color="#FAFBFF"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="250" rx="22" fill="url(#bg)" stroke="#E1E8F5"/>
+  <rect x="40" y="42" width="5" height="26" rx="2.5" fill="#4169E1"/>
+  <g font-family="Pretendard,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,sans-serif">
+    <text x="58" y="65" font-size="27" font-weight="700" fill="#30405C">이현정</text>
+    <text x="40" y="127" font-size="35" font-weight="700" letter-spacing="-1" fill="#182B4A">필요한 일에 먼저 움직이는</text>
+    <text x="40" y="178" font-size="35" font-weight="700" letter-spacing="-1" fill="#4169E1">백엔드 개발자입니다.</text>
+  </g>
+  <g transform="translate(704 47)">
+    <rect x="32" y="0" width="176" height="128" rx="15" fill="#DCE6FF"/>
+    <rect x="14" y="17" width="176" height="128" rx="15" fill="#EDF2FF" stroke="#BDCEF4"/>
+    <rect x="0" y="34" width="176" height="128" rx="15" fill="#FFFFFF" stroke="#ADC1EA" stroke-width="1.5"/>
+    <path d="M1 64H175" stroke="#DFE7F5"/>
+    <circle cx="17" cy="49" r="3" fill="#4169E1"/>
+    <circle cx="29" cy="49" r="3" fill="#A7BBE9"/>
+    <circle cx="41" cy="49" r="3" fill="#D1DDF4"/>
+    <path d="M48 88L30 103L48 118M128 88L146 103L128 118M98 82L80 124" fill="none" stroke="#4169E1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="177" cy="155" r="20" fill="#4169E1"/>
+    <path d="M169 155L175 161L185 149" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
