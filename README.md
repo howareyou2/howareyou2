@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-intro.svg" width="100%" alt="이현정 — 필요한 일에 먼저 움직이는 백엔드 개발자입니다." />
+  <a href="https://www.gitanimals.org/">
+    <img src="https://render.gitanimals.org/lines/howareyou2?pet-id=902102252345838102&amp;contribution-view=false" width="220" height="100" alt="산책하는 카피바라 · GitAnimals" />
+  </a>
 </p>
+
+<h2 align="center">이현정</h2>
+
+<p align="center"><b>필요한 일에 먼저 움직이는 백엔드 개발자입니다.</b></p>
 
 <p align="center">
   3인 팀에서 빵집을 찾고 방문을 기록하는 <b>빵별일지</b>를 개발·운영하고 있습니다.<br />
@@ -8,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/2d7f1bb7a95a83a3bafc010066f9ecfc"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-4169E1?style=for-the-badge&amp;logo=notion&amp;logoColor=white" /></a>
+  <a href="https://app.notion.com/p/2d7f1bb7a95a83a3bafc010066f9ecfc"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-B87560?style=for-the-badge&amp;logo=notion&amp;logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:fineimagination@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-34435E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="mailto:fineimagination@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-7D8B75?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 <br />
