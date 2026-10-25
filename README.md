@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/lines/howareyou2?pet-id=902102252345838102&amp;contribution-view=false" width="220" height="100" alt="산책하는 카피바라 · GitAnimals" />
+    <img src="https://render.gitanimals.org/lines/howareyou2?pet-id=902102252345838102&amp;contribution-view=false" width="280" height="160" alt="산책하는 카피바라 · GitAnimals" />
   </a>
 </p>
 
